@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Jair 👋
 
-<!--
-**Jair-MV/Jair-MV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Developer · Based in Mexico**
 
-Here are some ideas to get you started:
+I build software, explore ideas, and enjoy understanding not just how things work, but why they work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background is in web development, but my interests go beyond any single technology or platform.
+
+I'm passionate about thoughtful design, software engineering, and the possibilities that emerge when technology meets creativity.
+
+### 🔭 Currently Exploring
+
+- Software architecture and engineering.
+- Artificial intelligence and its applications.
+- New ways of building digital products.
+
+---
+
+*Driven by curiosity. Built through experimentation.* 🚀
